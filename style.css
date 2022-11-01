@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.products_row{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+

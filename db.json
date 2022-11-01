@@ -1,0 +1,40 @@
+{
+  "Product": [
+    {
+      "title": "Ferari",
+      "price": "180000",
+      "image": "https://avatars.mds.yandex.net/i?id=c0e1e0d8dc153a24c7d28a508c066aee-5888827-images-thumbs&n=13",
+      "id": 1
+    },
+    {
+      "title": "Pugati",
+      "price": "2200000",
+      "image": "https://avatars.mds.yandex.net/i?id=63446e381192cb3fc43273d634c86a8c-5322158-images-thumbs&n=13",
+      "id": 2
+    },
+    {
+      "title": "MErsedez Benz",
+      "price": "7900000",
+      "image": "https://avatars.mds.yandex.net/i?id=7c26737a8de68f45d050f60bcc0b139fdae97c89-5467611-images-thumbs&n=13",
+      "id": 3
+    },
+    {
+      "title": "BMW",
+      "price": "120000",
+      "image": "https://avatars.mds.yandex.net/i?id=4e6764b7b32dbda816a948eaa3afd1ba078fcba1-5385572-images-thumbs&n=13",
+      "id": 4
+    },
+    {
+      "title": "Toyota Camry",
+      "price": "6000000",
+      "image": "https://avatars.mds.yandex.net/i?id=42926e3be78b3c5f9250bb2c58a6e1981fe8e4fd-4566567-images-thumbs&n=13",
+      "id": 5
+    },
+    {
+      "title": "Honda CRV 4",
+      "price": "2340000",
+      "image": "https://avatars.mds.yandex.net/i?id=086ffd9c05bf8b7456211e4def7b1340-5530893-images-thumbs&n=13",
+      "id": 6
+    }
+  ]
+}
